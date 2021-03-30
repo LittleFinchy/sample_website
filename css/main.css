@@ -1,6 +1,30 @@
-.nav-spacing {
-      margin: 0 0 0 10px;
-    }
-    .nav-menu {
-      text-align: right
-    }
+.nav-item {
+	margin: 0 0 0 10px;
+	color: blue;
+	text-decoration: none;
+}
+.nav-menu {
+	text-align: right;
+}
+.twitter-style {
+	text-decoration: none;
+}
+.moby-header {
+	text-align: center;
+	margin: 0 0 80px;
+}
+.moby-quote {
+	font-style: italic; font-size: 20px;
+}
+.moby-main-quote {
+	font-style: normal; font-size: 24px; font-weight: bold; color: red;
+}
+.whale-img {
+	display: block; margin: 0 auto;
+}
+.moby-div {
+	width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+.book-img {
+	float: left; margin: 0 40px 0 0;
+}
